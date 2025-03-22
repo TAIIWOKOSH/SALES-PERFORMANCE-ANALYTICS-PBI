@@ -29,19 +29,19 @@ Summary of the Adventure Works Sales Performance from the year 2017- 2021, which
       - Why: It is used for data cleaning, data transformation and preparation before loading it into Power BI.
 - ** DAX: **
      - Why: It is used to create calculated measures. [ e.g. Total sales, Profit Margin, Total Order]. Total Sales = SUM (Sales [Sales Amount])
-     - '''
-               Profit Margin = 
-SUM (Sales [Sales Amount]) - SUM(Sales[Total Product Cost])'''  
-POWER BI:
+       ```          Profit Margin = 
+SUM (Sales [Sales Amount]) - SUM(Sales[Total Product Cost])```
+
+- **POWER BI: **
      - Why: It is used because it is a powerful business intelligence tool for interactive data visualization.
  
 
-CONCLUSION:
+## CONCLUSION:
 The Adventure Works Sales Performance from 2017- 2021, successfully addressed the company’s need for actionable insights into sales performance, customer behaviour, sales territory and product profitability, by preparing and cleaning the data, creating meaningful visualization as well as implementing interactive features, the dashboard enables stakeholders to make data driven decisions.
-Key findings include: 
-      Weakness: Low profit margins in the BIKE category and declining market share.
-       Threats: Economic downturns and competitive pressure.
-       Opportunities: Growth in BIKE accessories.
+### Key findings include: 
+-  Weakness: Low profit margins in the BIKE category and declining market share.
+-  Threats: Economic downturns and competitive pressure.
+- Opportunities: Growth in BIKE accessories.
 
 RECOMMENDATIONS:
 . Improve Profit Margins: Maximize production costs and pricing strategies for the BIKE category.
