@@ -34,7 +34,8 @@ SUM (Sales [Sales Amount]) - SUM(Sales[Total Product Cost])```
 
 - **POWER BI: **
      - Why: It is used because it is a powerful business intelligence tool for interactive data visualization.
- https://github.com/TAIIWOKOSH/SALES-PERFORMANCE-ANALYTICS-PBI/blob/main/DASHBOARDDDD.png?raw=true
+
+  ## Https://github.com/TAIIWOKOSH/SALES-PERFORMANCE-ANALYTICS-PBI/blob/main/DASHBOARDDDD.png?raw=true
 
 ## CONCLUSION:
 The Adventure Works Sales Performance from 2017- 2021, successfully addressed the company’s need for actionable insights into sales performance, customer behaviour, sales territory and product profitability, by preparing and cleaning the data, creating meaningful visualization as well as implementing interactive features, the dashboard enables stakeholders to make data driven decisions.
